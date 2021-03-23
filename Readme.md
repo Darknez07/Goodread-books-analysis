@@ -14,5 +14,6 @@ information within the dataset, Thus plots and the recommender system<br>
 * It can be found inside the ipynb file
 
 ### Quantitative
-![Best 10 writers](Graph1.jpg "First")
+* From Below graph it is clear that stephen king has written 83 books within considered dataset
+![Best 10 writers](Graph1.jpg "Best Writers")
 Note:-> ``For who do not have jupyter notebook added python file``

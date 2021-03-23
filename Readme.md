@@ -1,5 +1,3 @@
-# Work in progress
-this week==> from Monday
 ## Data analysis
 This repo is aimed to exploration and getting the story and the important<br>
 information within the dataset, Thus plots and the recommender system<br>
@@ -14,4 +12,4 @@ information within the dataset, Thus plots and the recommender system<br>
 ## Analysis report
 * It can be found inside the ipynb file
 
-``Note:-> For who do not have jupyter notebook added python file``
+Note:-> ``For who do not have jupyter notebook added python file``

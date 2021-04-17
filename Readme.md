@@ -16,4 +16,6 @@ information within the dataset, Thus plots and the recommender system<br>
 ### Quantitative
 * From Below graph it is clear that stephen king has written 83 books within considered dataset
 ![Best 10 writers](Graph1.jpg "Best Writers")
+* From Below graph we can see Vintage publication and Penguin publication has the first 2 maximum number of books
+![Best 10 Publications](Graph2.JPG "Best Publications")
 Note:-> ``For who do not have jupyter notebook added python file``

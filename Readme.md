@@ -19,7 +19,7 @@ information within the dataset, Thus plots and the recommender system<br>
 
 ### Quantitative
 
-*From the graph below we can see that english readers have rated the books on the all margins and other languages are mostly rated above 4.0
+* From the graph below we can see that english readers have rated the books on the all margins and other languages are mostly rated above 4.0
 ![Box plot of Language vs Rating](Rating_vs_lang.JPG "Rating")
 
 * From Below graph it is clear that stephen king has written 83 books within considered dataset
